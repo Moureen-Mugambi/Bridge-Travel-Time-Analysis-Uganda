@@ -1,4 +1,4 @@
-# Refugee Accessibility – Bridge Travel Time Analysis (Northern Uganda)
+# Bridge Travel Time Analysis (Northern Uganda)
 
 ## Project Overview
 This project analyzed travel times to major bridges in Northern Uganda with a primary focus on refugee-hosting areas. The aim was to improve access to essential facilities and highlight potential escape routes to neighboring countries in case of emergencies. The results provide actionable insights to guide infrastructure planning and humanitarian response.  
